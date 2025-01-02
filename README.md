@@ -1,4 +1,5 @@
 你应该首先需要了解的:
+
 1.启动项目在终端输入命令:npm run serve"
 
 2.该项目使用了vue前端框架以及elementui，jszip，echarts等
