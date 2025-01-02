@@ -15,5 +15,5 @@ If you can't start it, you can go to their official website and install it with 
 3. I have tested this project, after uploading the project and clicking download, you need to wait for a period of time before the browser download will have results, this process may take a few minutes or even longer
 4. I open source this project, and I hope that more and more capable people can put forward opinions and propose solutions to improve many functions optimized by this project
 5. This project is implemented by the claude-AI model according to my ideas written in code, there may be many bugs in it, my technology is still lacking, there is still a big gap in software development, I hope to understand。
-6. 6. I hope that AI technology can be used to realize my creative ideas and provide strength and a better future for the development of human science and technology
+6. I hope that AI technology can be used to realize my creative ideas and provide strength and a better future for the development of human science and technology
 Thank you!!
